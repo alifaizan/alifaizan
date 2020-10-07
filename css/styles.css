@@ -1,0 +1,186 @@
+body {
+    width: auto;
+}
+
+
+html, button, input, select, textarea {
+    font-family: sans-serif;
+    font-family: 'Nunito', sans-serif;
+}
+
+body {
+    margin: 0;
+    margin-bottom:120px;
+    font-family: 'Nunito', sans-serif;
+}
+
+/*
+* Font Smoothing
+*/
+html, html a {
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004);
+    -webkit-font-smoothing: antialiased;
+}
+
+
+
+
+/*
+Buttons
+*/
+
+.download-btn {
+    display: block;
+    padding: 18px 46px;
+    border: 2px solid black;
+    border-radius: 3px;
+    font-size: 16px;
+    position: relative;
+    margin: 0 auto;
+    text-align: center; 
+    width: 250px;
+    background-color: white;    
+}
+
+ .download-btn:hover {
+    border-color: #73d0da;
+    color: #73d0da;
+    text-decoration: none;
+}
+
+.download-btn i {
+    margin-left: 5px
+}
+.download-btn {
+    margin-top: 50px
+}
+.download .download-btn {
+    margin-top: 25px
+}
+
+
+.github-btn {
+    display: block;
+    padding: 18px 46px;
+    border: 2px solid white;
+    border-radius: 3px;
+    font-size: 16px;
+    position: relative;
+    margin: 0 auto;
+    text-align: center; 
+    width: 250px;
+    background-color: white;    
+}
+
+ .github-btn:hover {
+    border-color: #73d0da;
+    color: #73d0da;
+    text-decoration: none;
+}
+
+.github-btn i {
+    margin-left: 5px
+}
+.github-btn {
+    margin-top: 50px
+}
+.github.github-btn {
+    margin-top: 25px
+}
+
+
+.linkedin-btn {
+    display: block;
+    padding: 18px 46px;
+    border: 2px solid white;
+    border-radius: 3px;
+    font-size: 16px;
+    position: relative;
+    margin: 0 auto;
+    text-align: center; 
+    width: 250px;
+    background-color: #0077B5;    
+}
+
+.linkedin-btn:hover {
+    border-color: blue;
+    color: #72BCD4;
+    text-decoration: none;
+}
+
+.linkedin-btn i {
+    margin-left: 5px
+}
+.linkedin-btn {
+    margin-top: 50px
+}
+.linkedin-btn {
+    margin-top: 25px
+}
+
+.about {
+    padding-top: 150px;
+    padding-bottom: 150px;
+    background-color: white;
+}
+
+.about .welcome {
+    margin: 0 0 15px 0;
+    color: black;
+    font-weight: 400;
+    font-size: 60px;
+}
+.about li{
+
+    font-size: 20px;
+}
+
+.resume {
+    padding-top: 150px;
+    padding-bottom: 150px;
+    background-color: black;
+}
+.resume h1 {
+    margin: 0 0 15px 0;
+    color: #fff;
+    font-weight: 400;
+    font-size: 40px;
+}
+
+.github {
+    padding-top: 150px;
+    padding-bottom: 150px;
+    background-color: grey;
+}
+
+.github h1 {
+    margin: 0 0 15px 0;
+    color: white;
+    font-weight: 400;
+    font-size: 40px;
+}
+
+.projects {
+    padding-top: 150px;
+    padding-bottom: 150px;
+    background-color: black;
+}
+
+.projects h1 {
+    margin: 0 0 15px 0;
+    color: white;
+    font-weight: 400;
+    font-size: 40px;
+}
+
+.linkedin {
+
+color:white;
+}
+.list{
+
+    color:black;
+}
+
+
+
